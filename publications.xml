@@ -1,0 +1,147 @@
+<publications>
+    <pub>
+        <author>Raf Buyle</author>
+        <author>Ruben Taelman</author>
+        <author>Katrien Mostaert</author>
+        <author>Geroen Joris</author>
+        <author>Erik Mannens</author>
+        <author>Ruben Verborgh</author>
+        <author>Tim Berners-Lee</author>
+        <pub_name id="346-359">Streamlining Governmental Processes by Putting Citizens in Control of Their Personal Data</pub_name>
+        <pub_type>Conference and Workshop Papers</pub_type>
+        <venue>EGOSE</venue>
+        <year>2019</year>
+    </pub>
+    <pub>
+        <author>Maribel Acosta</author>
+        <author>Tim Berners-Lee</author>
+        <author>Anastasia Dimou</author>
+        <author>John Domingue</author>
+        <author>Luis-Daniel Ib&#225;&#241;ez</author>
+        <author>Krzysztof Janowicz</author>
+        <author>Maria-Esther Vidal</author>
+        <author>Amrapali Zaveri</author>
+        <pub_name id="823-839">The FAIR TRADE Framework for Assessing Decentralised Data Solutions</pub_name>
+        <pub_type>Conference and Workshop Papers</pub_type>
+        <venue>WWW</venue>
+        <year>2019</year>
+    </pub>
+    <pub>
+        <author>Ruben Verborgh</author>
+        <author>Tobias Kuhn</author>
+        <author>Tim Berners-Lee</author>
+        <pub_name id="2165">Proceedings of the 2nd Workshop on Decentralizing the Semantic Web</pub_name>
+        <pub_type>Editorship</pub_type>
+        <venue>ISWC</venue>
+        <year>2018</year>
+    </pub>
+    <pub>
+        <author>Tim Berners-Lee</author>
+        <author>Sarven Capadisli</author>
+        <author>Stefan Dietze</author>
+        <author>Aidan Hogan</author>
+        <author>Krzysztof Janowicz</author>
+        <author>Jens Lehmann</author>
+        <pub_name id="2073">Workshop on Linked Data on the Web</pub_name>
+        <pub_type>Editorship</pub_type>
+        <venue>LDOW@WWW</venue>
+        <year>2018</year>
+    </pub>
+    <pub>
+        <author>Sarven Capadisli</author>
+        <author>Amy Guy</author>
+        <author>Christoph Lange</author>
+        <author>S&#246;ren Auer</author>
+        <author>Andrei Vlad Sambra</author>
+        <author>Tim Berners-Lee</author>
+        <pub_name id="537-553">Linked Data Notifications: A Resource-Centric Communication Protocol</pub_name>
+        <pub_type>Conference and Workshop Papers</pub_type>
+        <venue>ESWC</venue>
+        <year>2017</year>
+    </pub>
+    <pub>
+        <author>Sarven Capadisli</author>
+        <author>Amy Guy</author><author>Ruben Verborgh</author>
+        <author> Lange</author>
+        <author>S&#246;ren Auer</author>
+        <author>Tim Berners-Lee</author>
+        <pub_name id="469-481">Decentralised Authoring, Annotations and Notifications for a Read-Write Web with dokieli</pub_name>
+        <pub_type>Conference and Workshop Papers</pub_type>
+        <venue>ICWE</venue>
+        <year>2017</year>
+    </pub>
+    <pub>
+        <author>Essam Mansour</author>
+        <author>Andrei Vlad Sambra</author>
+        <author>Sandro Hawke</author>
+        <author>Maged Zereba</author>
+        <author>Sarven Capadisli</author>
+        <author>Abdurrahman Ghanem</author>
+        <author>Ashraf Aboulnaga</author>
+        <author>Tim Berners-Lee</author>
+        <pub_name id="223-226">A Demonstration of the Solid Platform for Social Web Applications</pub_name>
+        <pub_type>Conference and Workshop Papers</pub_type>
+        <venue>WWW</venue>
+        <year>2016</year>
+    </pub>
+    <pub>
+        <author>S&#246;ren Auer</author>
+        <author>Tim Berners-Lee</author>
+        <author>Christian Bizer</author>
+        <author>Tom Heath</author>
+        <pub_name id="1593">Proceedings of the Workshop on Linked Data on the Web</pub_name>
+        <pub_type>Editorship</pub_type>
+        <venue>WWW</venue>
+        <year>2016</year>
+    </pub>
+    <pub>
+        <author>Nigel Shadbolt</author>
+        <author>Kieron O'Hara</author>
+        <author>Tim Berners-Lee</author>
+        <author>Nicholas Gibbins</author>
+        <author>Hugh Glaser</author>
+        <author>Wendy Hall</author>
+        <author>m.c.schraefel</author>
+        <pub_name id="16-24">Linked Open Government Data: Lessons from Data.gov.uk</pub_name>
+        <pub_type>Journal Articles</pub_type>
+        <venue>IEEE Intell. Syst.</venue>
+        <year>2012</year>
+    </pub>
+    <pub>
+        <author>Christian Bizer </author>
+        <author>Tom Heath </author>
+        <author>Tim Berners-Lee</author>
+        <pub_name id="205-227">Linked Data</pub_name>
+        <pub_type>Parts in Books or Collections</pub_type>
+        <venue />
+        <year>2011</year>
+    </pub>
+    <pub>
+        <author>Jim Hendler </author>
+        <author>Tim Berners-Lee</author>
+        <pub_name id="156-161">From the Semantic Web to social machines: A research challenge for AI on the World Wide Web</pub_name>
+        <pub_type>Journal Articles</pub_type>
+        <venue>Artif. Intell</venue>
+        <year>2010</year>
+    </pub>
+    <pub>
+        <author>Kieron O'Hara </author>
+        <author>Tim Berners-Lee </author>
+        <author>Wendy Hall </author>
+        <author>Nigel Shadbolt</author>
+        <pub_name id="130-134">Use of the Semantic Web in e-Research</pub_name>
+        <pub_type>Parts in Books or Collections</pub_type>
+        <venue>World Wide Research</venue>
+        <year>2010</year>
+    </pub>
+    <pub>
+        <author>Christian Bizer </author>
+        <author>Tom Heath </author>
+        <author>Tim Berners-Lee </author>
+        <author>Michael Hausenblas</author>
+        <pub_name>Proceedings of the WWW2010 Workshop on Linked Data on the Web</pub_name>
+        <pub_type>Editorship</pub_type>
+        <venue>CEUR-WS</venue>
+        <year>2010</year>
+    </pub>
+</publications>
